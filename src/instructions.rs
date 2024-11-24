@@ -18,7 +18,7 @@ pub enum Instruction {
     UpgradeGuardianSet,
     VerifySignatures,
     PostMessageUnreliable,
-    completeNative,
+    CompleteNative,
 }
 
 mod initialize;
